@@ -14,14 +14,14 @@ The goal of this project is to prepare tidy data that can be used for later anal
 ## Requirements
 1.  A tidy data set
 2.  A link to a Github repository with an R script called run_analysis.R that does the following:  
-  a.  Merges the training and the test sets to create one data set  
-  b.  Extracts only the measurements on the mean and standard deviation for each measurement  
-  c.  Uses descriptive activity names to name the activities in the data set  
-  d.  Appropriately labels the data set with descriptive variable names  
-  e.  From the data set in step d, creates a second, independent tidy data set with the average of each variable for each activity and each subject   
-3.  A code book called CodeBook.md that describes the variables, data and any transformations or work that was performed to clean up the data
-4.  A README.md in the repo with the scripts.
-5.  The repo should explain how all of the scripts work and how they are connected.
+    a.  Merges the training and the test sets to create one data set  
+    b.  Extracts only the measurements on the mean and standard deviation for each measurement  
+    c.  Uses descriptive activity names to name the activities in the data set  
+    d.  Appropriately labels the data set with descriptive variable names  
+    e.  From the data set in step d, creates a second, independent tidy data set with the average of each variable for each activity and each subject   
+3.  A code book called CodeBook.md that describes the variables, data and any transformations or work that was performed to clean up the data  
+4.  A README.md in the repo with the scripts  
+5.  The repo should explain how all of the scripts work and how they are connected  
 
 
 ## Description of the Data
