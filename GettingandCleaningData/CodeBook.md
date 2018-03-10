@@ -1,8 +1,7 @@
-# Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project CodeBook
 Author:  Cherie Bardsley  
 Date:  March 8, 2018  
 
 
-## CodeBook
-The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
+This code book describes the variables, the data, and any transformations or work that was performed to clean up the data for this project. 
 
